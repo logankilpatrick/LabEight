@@ -1,0 +1,14 @@
+Bib	Name	Team name	Team name 2	Distance	Category	Time	Lap 1	Lap 2
+47	"Rader, Shawn"		"Hillsboro, Oregon"	50 Mile	Open Men	4:10:17.8	-	-
+71	"Lynch, Matthew"		"Redmond, WA"	50 Mile	Masters Men  	4:16:24.9	-	-
+108	"Lashbrook, Tyson"		"Maple Valley, washington"	50 Mile	Open Men	4:18:54.9	-	-
+21	"Merrill, John"		"Sandpoint, Idaho"	50 Mile	Open Men	4:23:51.5	-	-
+205	"Rigel, Andy"		"Seattle, Washington"	50 Mile	Open Men	4:25:33.3	-	-
+44	"Hulit, Carl"		"Seattle, WA"	50 Mile	Open Men	4:32:15.2	-	-
+75	"Dale, Pat"		"Olympia, WA"	50 Mile	Masters Men  	4:32:23.9	-	-
+199	"brady, nolan"		"steilacoom, Washington"	50 Mile	Open Men	4:33:24.5	-	-
+260	"Haag, Vince"		"Seattle , WA"	50 Mile	Masters Men  	4:37:38.0	-	-
+179	"Gile, Mike "		"Mercer Island, Washington"	50 Mile	Open Men	4:40:13.6	-	-
+10	"Heckenlaible, Rick"		"Kenmore, WA"	50 Mile	Masters Men  	4:40:20.9	-	-
+151	"Romesburg, Justin"	ESNW - Mukilteo   	"Mukilteo, Wa"	50 Mile	Open Men	4:40:32.8	-	-
+31	"Ludeman, Bob"		"Bellevue, WA"	50 Mile	Masters Men  	4:43:14.2	-	-
